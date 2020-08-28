@@ -1,0 +1,33 @@
+body{
+    background-image: url(../img/cielo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#global{
+    background-color: white;
+}
+
+#logo{
+    background-color: #1F87C4;
+}
+
+#menu{
+    background-color: #1F87C4;
+}
+
+
+.button-more{
+    background-color: #1F87C4;
+}
+
+
+#login input[type="submit"]:hover{
+	background-color: #1F87C4;
+}
+
+
+
+#site-footer{
+	background-color:rgba(85,86,75,0.65);
+}
